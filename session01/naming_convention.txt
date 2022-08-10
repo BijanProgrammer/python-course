@@ -1,0 +1,9 @@
+naming convention
+
+folder & file
+    snake_case
+
+this_is_a_snake_case
+this-is-a-kebab-case
+thisIsACamelCase
+ThisIsACamelCase
