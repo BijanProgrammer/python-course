@@ -6,6 +6,9 @@ folders & files
 variables
     snake_case
 
+classes
+    PascalCase
+
 this_is_a_snake_case
 this-is-a-kebab-case
 thisIsACamelCase
