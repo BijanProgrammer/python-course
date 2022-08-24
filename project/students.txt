@@ -1,0 +1,4 @@
+Bijan;Eisapour;972023026;CE;17.0
+Reza;Eisapour;972023099;CS;10.0
+Ali;Habibi;992023001;CE;16.0
+Mahdi;Mahdavi;972023001;CE;20.0
